@@ -17,8 +17,7 @@
  
  🌱 On a tech trek, leveling up in **Docker, Supabase, AWS**—plotting my course through the cloud computing cosmos.
 
-💬 Wrestling with questions on **Python, SQL, ML**, or the enigmas of **AI**? Challenge accepted! Let’s untangle the webs of code [here](https://github.com/Sanchay-T
-/Sanchay-T/issues).
+💬 Wrestling with questions on **Python, SQL, ML**, or the enigmas of **AI**? Challenge accepted! Let’s untangle the webs of code [here](https://github.com/Sanchay-T/Sanchay-T/issues).
 
 ⚡ Fun fact: My neural networks are like the intricate plot twists of a thriller movie—designed to intrigue and predict with eerie accuracy. As for anime, I strategize like a shounen hero—always ten steps ahead.
 
@@ -29,17 +28,17 @@
   
   <!-- Gmail -->
   <a href="mailto:thalnerkarsanchay17@gmail.com">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" />
+    <img height="40" src="https://www.vectorlogo.zone/logos/google/gmail-icon.svg" alt="Gmail" />
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sanchay-thalnerkar-0b8a47215/" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+    <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" />
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/Sanchay-T" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
+    <img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" />
   </a>
 
   <!-- Calendly -->
@@ -48,10 +47,13 @@
   </a>
 
   <!-- Instagram (Uncomment if needed) -->
-   <a href="YOUR_INSTAGRAM_LINK" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" />
+  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+    <img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" />
   </a>
 </div>
+
+<hr/>
+
 
  <hr/>
 
