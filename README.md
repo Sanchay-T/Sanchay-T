@@ -1,8 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sanchay-T.Sanchay-T" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Zooming+through+the+cosmos...;It's+Sanchay+Thalnerkar+dropping+in!+👋" />
-</h1>
+<div align="center">
+  <img src="https://i.postimg.cc/nLfstxZz/R.gif" alt="Animated GIF" />
+  
+  <h1>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Zooming+through+the+cosmos...;It's+Sanchay+Thalnerkar+dropping+in!+👋" alt="Typing SVG" />
+  </h1>
+</div>
 
 
 <h3 align="center">
