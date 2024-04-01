@@ -27,10 +27,9 @@
   <p style="font-size:20px; font-weight:bold; color:#4b8bbe;">🌐 Let's Connect & Collaborate!</p>
   
   <!-- Gmail -->
-  <a href="mailto:thalnerkarsanchay17@gmail.com">
-    <img height="40" src="https://www.vectorlogo.zone/logos/google/gmail-icon.svg" alt="Gmail" />
+ <a href="mailto:thalnerkarsanchay17@gmail.com">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" />
   </a>
-  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sanchay-thalnerkar-0b8a47215/" target="_blank">
     <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" />
