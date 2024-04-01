@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-  🌟 Unleashing code magic and AI shenanigans from India 🇮🇳 — Where chai, code, and chaos intertwine! 💻🤹‍♂️☕
+  🌟 Unleashing AI shenanigans from India 🇮🇳 — Where chai, code, and chaos intertwine! 💻🤹‍♂️☕
 </h3>
 
 <br/>
@@ -27,25 +27,27 @@
   <p style="font-size:20px; font-weight:bold; color:#4b8bbe;">🌐 Let's Connect & Collaborate!</p>
   
   <!-- Gmail -->
- <a href="mailto:thalnerkarsanchay17@gmail.com">
+  <a href="mailto:thalnerkarsanchay17@gmail.com" style="margin-right: 10px;">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" />
   </a>
+  
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sanchay-thalnerkar-0b8a47215/" target="_blank">
+  <a href="https://www.linkedin.com/in/sanchay-thalnerkar-0b8a47215/" target="_blank" style="margin-right: 10px;">
     <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" />
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/Sanchay-T" target="_blank">
+  <a href="https://github.com/Sanchay-T" target="_blank" style="margin-right: 10px;">
     <img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" />
   </a>
 
   <!-- Calendly -->
   <a href="https://cal.com/sanchay-sachin-thalnerkar-k4acm3/15min" target="_blank">
-    <img height="40" src="https://cal.com/logo-white.svg" alt="Calendly" />
+    <img height="30" src="https://cal.com/logo-white.svg" alt="Calendly" /> <!-- Reduced height for Calendly -->
   </a>
 
 </div>
+
 
 <hr/>
 
@@ -63,13 +65,53 @@
   <p>🤝 Open for collaboration and conversation on all things tech—reach out and let's disrupt the digital era together!</p>
 </div>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,numpy,pandas,matplotlib,scikitlearn,jupyter" />
-    <img src="https://skillicons.dev/icons?i=django,html,css,javascript,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=docker,digitalocean,github,git,vscode" /><br>
+  <h3>🔨 Technologies I Use 🔨</h3>
+  
+  <!-- Programming Languages & Frameworks -->
+  <div style="margin-bottom: 10px;">
+    <img height="40" src="https://skillicons.dev/icons?i=python&perline=10" alt="Python" />
+    <img height="40" src="https://skillicons.dev/icons?i=typescript&perline=10" alt="TypeScript" />
+    <img height="40" src="https://skillicons.dev/icons?i=javascript&perline=10" alt="JavaScript" />
+    <img height="40" src="https://skillicons.dev/icons?i=django&perline=10" alt="Django" />
+    <!-- Custom Mojo Icon -->
+    <img height="40" src="https://i.postimg.cc/FsWGR5Sx/Mojo.png" alt="Mojo" style="margin: 0 5px;" />
+  </div>
+  
+  
+  <!-- Machine Learning Frameworks -->
+  <div style="margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=tensorflow&perline=3" alt="TensorFlow" />
+    <img src="https://skillicons.dev/icons?i=pytorch&perline=3" alt="PyTorch" />
+    <img src="https://skillicons.dev/icons?i=sklearn&perline=3" alt="Scikit-learn" />
+  </div>
+  
+  <!-- Data Handling Libraries -->
+  <div style="margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=pandas&perline=3" alt="Pandas" />
+    <img src="https://skillicons.dev/icons?i=numpy&perline=3" alt="NumPy" />
+  </div>
+
+  <!-- Tools & IDEs -->
+  <div style="margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=git&perline=3" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=github&perline=3" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=githubactions&perline=3" alt="GitHub Actions" />
+    <img src="https://skillicons.dev/icons?i=docker&perline=3" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=aws&perline=3" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=gcp&perline=3" alt="GCP" />
+  </div>
+
+  <!-- Databases & Other Tools -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=postgres&perline=3" alt="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=mysql&perline=3" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=jupyter&perline=3" alt="Jupyter" />
+    <img src="https://skillicons.dev/icons?i=pycharm&perline=3" alt="PyCharm" />
+    <img src="https://skillicons.dev/icons?i=vscode&perline=3" alt="VSCode" />
+  </div>
 </div>
+
 
 
 <br/>
@@ -78,8 +120,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sanchay-T
-/Sanchay-T/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sanchay-T/Sanchay-T/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
