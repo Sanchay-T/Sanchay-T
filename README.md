@@ -42,19 +42,13 @@
 
   <!-- Calendly -->
   <a href="https://cal.com/sanchay-sachin-thalnerkar-k4acm3/15min" target="_blank">
-    <img height="40" src="https://your-custom-calendly-icon-url.svg" alt="Calendly" />
+    <img height="40" src="https://cal.com/logo-white.svg" alt="Calendly" />
   </a>
 
-  <!-- Instagram (Uncomment if needed) -->
-  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
-    <img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" />
-  </a>
 </div>
 
 <hr/>
 
-
- <hr/>
 
  <!-- About Me Section -->
 <div align="center">
