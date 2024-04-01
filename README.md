@@ -65,46 +65,46 @@
   <p>🤝 Open for collaboration and conversation on all things tech—reach out and let's disrupt the digital era together!</p>
 </div>
  
-<div align="center">
-  <h3>🔨 Technologies I Use 🔨</h3>
-  
-  <!-- Programming Languages & Frameworks -->
-  <div style="margin-bottom: 10px;">
-    <img height="40" src="https://skillicons.dev/icons?i=python&perline=10" alt="Python" />
-    <img height="40" src="https://skillicons.dev/icons?i=typescript&perline=10" alt="TypeScript" />
-    <img height="40" src="https://skillicons.dev/icons?i=javascript&perline=10" alt="JavaScript" />
-    <img height="40" src="https://skillicons.dev/icons?i=django&perline=10" alt="Django" />
-    <!-- Custom Mojo Icon -->
-    <img height="40" src="https://i.postimg.cc/FsWGR5Sx/Mojo.png" alt="Mojo" style="margin: 0 5px;" />
-  </div>
-  
-  
-  <!-- Machine Learning Frameworks -->
-  <div style="margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=tensorflow&perline=3" alt="TensorFlow" />
-    <img src="https://skillicons.dev/icons?i=pytorch&perline=3" alt="PyTorch" />
-    <img src="https://skillicons.dev/icons?i=sklearn&perline=3" alt="Scikit-learn" />
-  </div>
-  <!-- Tools & IDEs -->
-  <div style="margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=git&perline=3" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=github&perline=3" alt="GitHub" />
-    <img src="https://skillicons.dev/icons?i=githubactions&perline=3" alt="GitHub Actions" />
-    <img src="https://skillicons.dev/icons?i=docker&perline=3" alt="Docker" />
-    <img src="https://skillicons.dev/icons?i=aws&perline=3" alt="AWS" />
-    <img src="https://skillicons.dev/icons?i=gcp&perline=3" alt="GCP" />
-  </div>
+<h3 align="center">🔨 Technologies I Use 🔨</h3>
 
-  <!-- Databases & Other Tools -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=postgres&perline=3" alt="PostgreSQL" />
-    <img src="https://skillicons.dev/icons?i=mysql&perline=3" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=supabase&perline=3" alt="Supabase" />
-    <img src="https://skillicons.dev/icons?i=pycharm&perline=3" alt="PyCharm" />
-    <img src="https://skillicons.dev/icons?i=vscode&perline=3" alt="VSCode" />
-  </div>
-</div>
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://i.postimg.cc/FsWGR5Sx/Mojo.png" width="40" height="40" alt="Mojo"/>
+</p>
 
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn"/>
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP"/>
+</p>
+
+<p align="center">
+  <!-- Row 4 -->
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase"/>
+</p>
+
+<p align="center">
+  <!-- Row 5 -->
+  <img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40" alt="PyCharm"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode"/>
+</p>
 
 
 <br/>
