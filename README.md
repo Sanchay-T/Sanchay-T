@@ -106,7 +106,7 @@
   <div>
     <img src="https://skillicons.dev/icons?i=postgres&perline=3" alt="PostgreSQL" />
     <img src="https://skillicons.dev/icons?i=mysql&perline=3" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=jupyter&perline=3" alt="Jupyter" />
+    <img src="https://skillicons.dev/icons?i=supabase&perline=3" alt="Supabase" />
     <img src="https://skillicons.dev/icons?i=pycharm&perline=3" alt="PyCharm" />
     <img src="https://skillicons.dev/icons?i=vscode&perline=3" alt="VSCode" />
   </div>
