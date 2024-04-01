@@ -85,13 +85,6 @@
     <img src="https://skillicons.dev/icons?i=pytorch&perline=3" alt="PyTorch" />
     <img src="https://skillicons.dev/icons?i=sklearn&perline=3" alt="Scikit-learn" />
   </div>
-  
-  <!-- Data Handling Libraries -->
-  <div style="margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=pandas&perline=3" alt="Pandas" />
-    <img src="https://skillicons.dev/icons?i=numpy&perline=3" alt="NumPy" />
-  </div>
-
   <!-- Tools & IDEs -->
   <div style="margin-bottom: 10px;">
     <img src="https://skillicons.dev/icons?i=git&perline=3" alt="Git" />
