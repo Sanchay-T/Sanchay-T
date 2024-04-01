@@ -1,10 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sanchay-T.Sanchay-T" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Zooming+through+the+cosmos...;It's+Sanchay+Thalnerkar+dropping+in!+👋" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Zooming+through+the+cosmos...;It's+Sanchay+Thalnerkar+dropping+in!+👋" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<h3 align="center">
+  🌟 Unleashing code magic and AI shenanigans from India 🇮🇳 — Where chai, code, and chaos intertwine! 💻🤹‍♂️☕
+</h3>
 
 <br/>
 
@@ -15,8 +18,7 @@
  🌱 On a tech trek, leveling up in **Docker, Supabase, AWS**—plotting my course through the cloud computing cosmos.
 
 💬 Wrestling with questions on **Python, SQL, ML**, or the enigmas of **AI**? Challenge accepted! Let’s untangle the webs of code [here](https://github.com/Sanchay-T
-/Sanchay-T
-/issues).
+/Sanchay-T/issues).
 
 ⚡ Fun fact: My neural networks are like the intricate plot twists of a thriller movie—designed to intrigue and predict with eerie accuracy. As for anime, I strategize like a shounen hero—always ten steps ahead.
 
