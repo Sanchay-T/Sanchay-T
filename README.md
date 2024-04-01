@@ -36,21 +36,25 @@
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:thalnerkarsanchay17@gmail.com">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" style="padding: 0 20px;" />
+    <img height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sanchay-thalnerkar-0b8a47215/" target="_blank">
-    <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" style="padding: 0 20px;" />
+    <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <!-- GitHub -->
   <a href="https://github.com/Sanchay-T" target="_blank">
-    <img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" style="padding: 0 20px;" />
+    <img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
   <!-- Calendly -->
   <a href="https://cal.com/sanchay-sachin-thalnerkar-k4acm3/15min" target="_blank">
-    <img height="40" src="https://cal.com/logo-white.svg" alt="Calendly" style="padding: 0 20px;" /> <!-- Adjusted height for Calendly to match other icons -->
+    <img height="40" src="https://cal.com/logo-white.svg" alt="Calendly" />
   </a>
 </p>
+
 
 <hr/>
 
