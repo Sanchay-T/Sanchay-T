@@ -142,11 +142,6 @@
   <br/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Sanchay-T">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchay-T&theme=react&border_radius=10&langs_count=8&layout=compact&include_repo=GPT4O,LlamaIndex-MongoDB-TruLens,CypherSol,Python_Streamlit_Vectara,JARVIS,SuperAGI,Overdraft,Auto-GPT-Forge,Echo,Ivy-Octernships-ML,Research-Agent,EXPAT,evals,ParkingSpot,cert-issuer,Facial-Recognition,surround_vehicles_awareness" alt="Sanchay's Top Languages" />
-  </a>
-</p>
 
 
 
