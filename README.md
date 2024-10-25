@@ -70,6 +70,10 @@ class NeuralArchitect:
         await self.contemplate_existence_of_local_minima()
 ```
 
+
+
+Here's the complete formatted version with the title:
+
 ## `$ nvidia-smi` (Neural Processing Units)
 
 <table>
@@ -102,9 +106,8 @@ brain = {
     ]
 }
 ```
-
 </td>
-<td width="60%">
+<td width="40%">
 
 ### ⚡ Infrastructure Matrix
 ```python
@@ -129,7 +132,6 @@ deployment = {
     }
 }
 ```
-
 </td>
 </tr>
 </table>
