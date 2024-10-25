@@ -1,165 +1,227 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sanchay-T.Sanchay-T" />
-
 <div align="center">
-  <img src="https://i.postimg.cc/nLfstxZz/R.gif" alt="Animated GIF" />
-  
-  <h1>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Zooming+through+the+cosmos...;It's+Sanchay+Thalnerkar+dropping+in!+👋" alt="Typing SVG" />
-  </h1>
+
+```ascii
+Neural Network Status: [====================] 100% Complete
+CUDA Toolkit: 13.0 | Driver: 555.0.0 | TensorRT: 10.0
+
+     ███████╗ █████╗ ███╗   ██╗ ██████╗██╗  ██╗ █████╗ ██╗   ██╗
+     ██╔════╝██╔══██╗████╗  ██║██╔════╝██║  ██║██╔══██╗╚██╗ ██╔╝
+     ███████╗███████║██╔██╗ ██║██║     ███████║███████║ ╚████╔╝ 
+     ╚════██║██╔══██║██║╚██╗██║██║     ██╔══██║██╔══██║  ╚██╔╝  
+     ███████║██║  ██║██║ ╚████║╚██████╗██║  ██║██║  ██║   ██║   
+     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+
+╔════════════════════ SYSTEM MONITORING ══════════════════════╗
+║ GPU[0] NVIDIA RTX 5000 Blackwell | Architecture: GB100      ║
+║ ├─ Temperature: 42°C  | Power Draw: 420W / 450W            ║
+║ ├─ Memory: 45GB/48GB  | Clock: 2.85 GHz                    ║
+║ ├─ Utilization: 99%   | CUDA Cores: A LOT                  ║
+║ │                                                          ║
+║ ├─ Process[0]: training_skynet.py   | 16GB | Priority: MAX ║
+║ ├─ Process[1]: world_domination.py  | 12GB | Priority: HIGH║
+║ ├─ Process[2]: make_coffee.py       | 8GB  | Priority: CRIT║
+║ └─ Process[3]: debug_my_life.py     | 9GB  | Status: STUCK ║
+╚══════════════════════════════════════════════════════════════╝
+
+[CRITICAL] Coffee reserves depleting: 12% remaining
+[WARNING] Neural pathways experiencing quantum entanglement
+[INFO] Training loss: 0.0042 | Accuracy: 99.9% | Sanity: 404 Not Found
+[DEBUG] Attempting to understand why this code works... unsuccessfully
+[ERROR] Task failed successfully: Living up to parent's expectations
+[SYSTEM] Initializing backup coffee maker...
+
+Current Tasks:
+└─ Teaching AI to understand why it was trained
+   └─ AI responded: "That's deep, let's discuss over coffee"
+      └─ Scheduling existential crisis for next sprint
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F726&center=true&vCenter=true&random=false&width=500&lines=AI+Engineer+%F0%9F%A7%A0;Blackwell+GPU+Needed+PLEASE+%F0%9F%94%AC;Professional+Coffee+Engineer+%E2%98%95;Quantum+Neural+Designer+%F0%9F%93%89;Breaking+Physics+with+AI+%F0%9F%92%AB)](https://git.io/typing-svg)
+
 </div>
 
 
-<h3 align="center">
-  🌟 Unleashing AI shenanigans from India 🇮🇳 — Where chai, code, and chaos intertwine! 💻🤹‍♂️☕
-</h3>
 
-<br/>
+## `$ whoami`
 
-<div align="center">
-  <h3>🔭 Data Science & Machine Learning</h3>
-  <p><strong>Carving the future of business, one algorithm at a time. Exploring the cloud with Docker, Supabase, and AWS.</strong></p>
+```python
+class NeuralArchitect:
+    def __init__(self):
+        self.name = "Sanchay Thalnerkar"
+        self.location = "Mumbai, India 🇮🇳"
+        self.role = "AI Engineer @ Creative Finserve"
+        self.interests = {
+            "technical": ["Computer Vision", "Neural Architecture", "MLOps"],
+            "research": ["Efficient Training", "Model Compression", "Few-Shot Learning"],
+            "current_debug_status": "Trying to understand why my model predicts cats as pickles"
+        }
+    
+    def handle_errors(self, error):
+        if isinstance(error, CoffeeNotFoundError):
+            self.brew_coffee()
+        elif isinstance(error, ModelNotConvergingError):
+            self.add_more_layers()  # Because that always helps, right?
+        else:
+            return "Have you tried turning it off and on again?"
 
-  <h3>💬 Got Tech Queries?</h3>
-  <p>Let's navigate the code jungle together. <a href="https://github.com/Sanchay-T/Sanchay-T/issues">Ask me anything!</a></p>
+    async def daily_routine(self):
+        await self.train_models()
+        await self.debug_life()
+        await self.contemplate_existence_of_local_minima()
+```
 
-  <h3>⚡ Just for Fun</h3>
-  <p>I craft neural networks with the precision of a master storyteller. Anime fan? Me too—I strategize like an anime hero.</p>
-</div>
- 
-<br/>
-<hr/>
- 
-<h2 align="center">
-  <span style="font-size:36px; font-weight:bold; color:#4b8bbe;">🌐 Let's Connect & Collaborate!</span>
-</h2>
+## `$ nvidia-smi` (Neural Processing Units)
 
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:thalnerkarsanchay17@gmail.com">
-    <img height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sanchay-thalnerkar-0b8a47215/" target="_blank">
-    <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- GitHub -->
-  <a href="https://github.com/Sanchay-T" target="_blank">
-    <img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Calendly -->
-  <a href="https://cal.com/sanchay-sachin-thalnerkar-k4acm3/15min" target="_blank">
-    <img height="40" src="https://cal.com/logo-white.svg" alt="Calendly" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="60%">
 
+### 🧠 Neural Cortex
+```python
+brain = {
+    "languages": {
+        "Python": "Neural Architect",
+        "PyTorch": "Tensor Whisperer",
+        "JAX": "Gradient Maestro",
+        "CUDA": "GPU Enchanter",
+        "Mojo": "Speed Daemon"
+    },
+    
+    "deep_learning": {
+        "transformers": "Attention Master",
+        "computer_vision": "Vision Sculptor",
+        "generative_ai": "Reality Engineer",
+        "reinforcement": "Decision Maker"
+    },
+    
+    "expertise": [
+        "Neural Architecture Design",
+        "Model Distillation",
+        "Distributed Training",
+        "MLOps Automation"
+    ]
+}
+```
 
-<hr/>
+</td>
+<td width="60%">
 
+### ⚡ Infrastructure Matrix
+```python
+deployment = {
+    "orchestration": {
+        "kubernetes": "Fleet Commander",
+        "docker": "Container Sage",
+        "terraform": "Infrastructure Poet"
+    },
+    
+    "cloud_platforms": {
+        "aws": ["SageMaker", "EKS", "Lambda"],
+        "gcp": ["VertexAI", "GKE", "TPUs"],
+        "azure": ["AzureML", "AKS", "Scale"]
+    },
+    
+    "data_systems": {
+        "streaming": ["Kafka", "Redis Streams"],
+        "storage": ["PostgreSQL", "MongoDB"],
+        "monitoring": ["Prometheus", "Grafana"],
+        "ml_tracking": ["MLflow", "WandB"]
+    }
+}
+```
 
- <!-- About Me Section -->
-<div align="center">
-  <h2>👨‍🚀 Machine Learning Engineer | AI Visionary | Data Whisperer</h2>
-  
-  <p><strong>AI Student:</strong> Diving deep into Deep Learning at Shah and Anchor Kutchhi Engineering College.</p>
-  <p><strong>Data Science Intern:</strong> Tackling complex datasets at Creative Finserve; enhanced skills at Intel & IBM.</p>
-  <p><strong>Innovation Leader:</strong> Spearheading the E-Cell, I translate tech ideas into reality.</p>
-  <p><strong>Let's Talk Tech:</strong> Interested in AI's power to transform and innovate? <a href="https://github.com/Sanchay-T">Connect with me.</a></p>
-</div>
+</td>
+</tr>
+</table>
 
-<br/>
-<hr/>
+## `$ top` (Current Processes)
 
+<table>
+<tr>
+<td width="60%">
 
-<h3 align="center">🔨 Technologies I Use 🔨</h3>
+### 🔬 Active Research
+```sql
+SELECT * FROM projects 
+WHERE status = 'in_progress' 
+ORDER BY priority DESC;
 
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/FsWGR5Sx/Mojo.png" width="40" height="40" alt="Mojo"/>
-</p>
+-- Results:
+-- 1. Developing efficient vision transformers
+-- 2. Optimizing training pipelines
+-- 3. Building automated ML deployment systems
+-- 4. Teaching CNNs to appreciate modern art
+```
 
-<p align="center">
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn"/>
-</p>
+### 🎯 Performance Metrics
+- 🚀 Reduced model inference time by 60%
+- 📊 Implemented ML pipelines processing 1M+ images daily
+- 🎓 Published research on efficient training methods
+- 🔧 Developed custom CUDA kernels for optimization
+- 🤖 Successfully taught AI to detect sarcasm (still working on understanding it)
 
-<p align="center">
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP"/>
-</p>
+</td>
+<td width="40%">
 
-<p align="center">
-  <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase"/>
-</p>
+### 📈 Neural Activity
+<img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Sanchay-T&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats" />
 
-<p align="center">
-  <!-- Row 5 -->
-  <img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40" alt="PyCharm"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode"/>
-</p>
+### ⚡ Training Progress
+<img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sanchay-T&theme=tokyonight&hide_border=true" />
 
-<hr/>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sanchay-T/Sanchay-T/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">🔢 My GitHub Statistics 🔢</h2>
-
-<p align="center">
-  <a href="https://github.com/Sanchay-T">
-    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sanchay-T&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  </a>
-  <a href="https://github.com/Sanchay-T">
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sanchay-T&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Spacing between cards -->
-  <br/>
-</p>
-
-
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
+## `$ htop` (System Resources)
 
 <div align="center">
-    <p style="font-size:18px; color:#6d6d6d; font-family:Arial, sans-serif; margin-bottom:10px;">
-        Enjoy my work? Support me with a coffee! ☕
-    </p>
-    <a href='ko-fi.com/sanchay' target='_blank'>
-        <img height='50' style='border:0px; height:50px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
-    </a>
+
+### 🛠️ Tools of the Trade
+![Python](https://img.shields.io/badge/Python-Architect-success?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Wizard-orange?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Maestro-blue?style=for-the-badge&logo=tensorflow)
+![Docker](https://img.shields.io/badge/Docker-Captain-cyan?style=for-the-badge&logo=docker)
+
+### 🔧 Infrastructure Stack
+<div>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,gcp,kubernetes,redis" />
 </div>
 
-<br/>
+</div>
 
+## `$ netstat` (Network Connections)
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neural_Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanchay-thalnerkar-0b8a47215/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-gray?style=for-the-badge&logo=github)](https://github.com/Sanchay-T)
+[![Email](https://img.shields.io/badge/Email-Synapse-red?style=for-the-badge&logo=gmail)](mailto:thalnerkarsanchay17@gmail.com)
+[![Calendar](https://img.shields.io/badge/Calendar-Temporal_Lobe-purple?style=for-the-badge&logo=google-calendar)](https://cal.com/sanchay-sachin-thalnerkar-k4acm3/15min)
+
+```python
+def initiate_neural_connection():
+    """
+    Warning: May involve discussions about:
+    - Why transformers are just spicy matrix multiplication
+    - The philosophical implications of gradient descent
+    - Whether consciousness is just a well-trained model
+    """
+    return "Let's collaborate on something extraordinary!"
+```
+
+</div>
+
+<div align="center">
+  <sub>Built with backpropagation | Optimized using gradient descent | Deployed with caffeine</sub>
+</div>
+
+---
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=Sanchay-T&style=for-the-badge&color=blueviolet)
+[![Papers](https://img.shields.io/badge/Coffee_Consumed-∞-brown?style=for-the-badge)](https://github.com/Sanchay-T)
+[![Models](https://img.shields.io/badge/Models_Trained-Loading...-green?style=for-the-badge)](https://github.com/Sanchay-T)
+
+</div>
